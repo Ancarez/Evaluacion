@@ -23,3 +23,15 @@ body {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
+
+.form-signin img{
+  width: 250px;
+  height: 250px;
+  margin-left: 20px;
+}
+
+.form-signin button{
+  background-color: rgb(26, 55, 134);
+  outline-color: rgba(33, 58, 141, 0.404);
+  color: rgba(255, 255, 255, 0.993);
+}
